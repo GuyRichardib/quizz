@@ -1,0 +1,43 @@
+body{
+    background-image: url('https://images4.alphacoders.com/108/1088160.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: rgba(245, 249, 255, 0.829);
+    font-size: bold;
+    text-shadow: 1px 1px rgba(248, 168, 168, 0.829);
+}
+.questionDiv{
+    text-align: -webkit-center;
+}
+.question{
+    background-image:linear-gradient(120deg, rgba(248, 168, 168, 0.829), rgb(214, 32, 32));
+    height: 50px;
+    width: 600px;
+    border-radius: 5px;
+    border: 1px solid rgb(128, 0, 0);
+    box-shadow: 0px 1px 7px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.answersDiv{
+    height: 100px;
+    width: 600px;
+    border-radius: 2px;
+    background-color: rgb(49, 60, 122);
+    border: 1px solid rgb(0, 60, 128);
+    box-shadow: 0px 1px 7px 0px;
+
+}
+.inputLabelDiv{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: start;
+
+}
